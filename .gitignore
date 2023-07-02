@@ -10,3 +10,4 @@ build
 *.html
 /reports/
 .log
+bin/
